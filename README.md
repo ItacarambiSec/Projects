@@ -1,6 +1,6 @@
 # 🛠️ Projects
 
-Este diretório reúne scripts, ferramentas e utilitários desenvolvidos ao longo de desafios CTF e práticas de segurança ofensiva. Inicialmente voltado à resolução de problemas específicos, este acervo cresce como um portfólio técnico modular e escalável, com foco em automação, exploração, enumeração e análise.
+Este diretório reúne scripts, ferramentas e utilitários desenvolvidos ao longo de desafios CTF e práticas de segurança ofensiva. Inicialmente voltado à resolução de problemas específicos, automação, exploração, enumeração e análise.
 
 ---
 
@@ -22,9 +22,5 @@ Com o avanço do portfólio, este diretório será expandido com novas categoria
 - `post-exploitation/`: técnicas para escalar privilégios, manter acesso, etc.  
 
 ---
-
-## 📌 Observações
-
-Todos os scripts são documentados com comentários explicativos e podem exigir dependências específicas (indicadas no cabeçalho dos arquivos). Recomendado uso em ambientes controlados de teste (labs/CTFs).
 
 
