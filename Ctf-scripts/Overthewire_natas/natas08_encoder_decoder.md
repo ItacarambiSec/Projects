@@ -2,7 +2,7 @@
 
 **Created:** 2025-05-24  
 **Author:** Itacarambi  
-**Challenge:** OverTheWire — Natas08  
+**Challenge:** [OverTheWire — Natas08](https://github.com/ItacarambiSec/CTFs/blob/main/OverTheWire/Natas/Natas08/Readme.md)
 
 ---
 
