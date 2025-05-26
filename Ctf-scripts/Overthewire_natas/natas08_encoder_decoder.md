@@ -20,11 +20,11 @@ Can be reused in similar CTFs or as a base for future tooling.
 
 ## ⚙️ Usage
 
-Encode
-php natas08_encoder_decoder.php encode "your_string"
+Encode   
+`php natas08_encoder_decoder.php encode "your_string"`
 
-Decode
-php natas08_encoder_decoder.php decode "encoded_string"
+Decode   
+`php natas08_encoder_decoder.php decode "encoded_string"`
 
 
 ## 💻 Script
