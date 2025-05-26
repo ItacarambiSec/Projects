@@ -28,7 +28,8 @@ Decode
 
 
 ## 💻 Script
-```
+
+```php
 <?php
 
 function encodeSecret($secret) {
