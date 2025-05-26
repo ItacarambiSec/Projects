@@ -20,10 +20,10 @@ Can be reused in similar CTFs or as a base for future tooling.
 
 ## ⚙️ Usage
 
-# Encode
+Encode
 php natas08_encoder_decoder.php encode "your_string"
 
-# Decode
+Decode
 php natas08_encoder_decoder.php decode "encoded_string"
 
 
